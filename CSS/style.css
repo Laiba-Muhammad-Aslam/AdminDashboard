@@ -38,4 +38,7 @@
         top: var(--topNavbarHeight);
         height: calc(100% - var(--topNavbarHeight));
     } 
+    main{
+        margin-left: var(--offcanvas-width);
+    }
 }
